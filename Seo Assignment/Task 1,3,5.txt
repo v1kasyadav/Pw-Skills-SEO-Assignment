@@ -1,0 +1,22 @@
+﻿SEO Assignment
+
+
+Question-1  What is SEO and Explain The Importance of SEO? 
+Solution 1:Seo Stands for Search Engine Optimization. SEO helps us to rank higher on the web  browsers like Google, Bing etc. The main purpose of SEO is to rank higher on search engine result pages (SERP) for relevant keyword or phrase to increase the visibility, traffic and to generate more revenue from the website.
+ 
+SEO is very important for businesses who generate more revenue and get more customers. SEO helps a lot to drive traffic to your website for the relevant keywords. All in all SEO helps to make your website visible to the targeted audience.
+ 
+Question 3 What are the benefits of Using meta Tags?
+Solution 3: Benefits of Using meta tags are:
+* SEO: Meta tags are  very benefical for the SEO of the websites <description> and <keywords>  helps to make our website visible on the search engine result pages(SERP). A well designed meta description attracts users to visit the website.
+*  Viewport controls: Viewport meta tags helps to properly display our websites on different devices and in different screen sizes and resolutions which makes our website responsive.
+* Social Media Sharing: Meta Tags very useful for sharing websites to social media platforms like Instagram, Facebook etc. Meta  Tags provides  tittle, image and description visible on the post to make our website look more attractive.
+* Charset Encoding: Meta Tags Charset are very helpful for character encoding for example "UTF-8" Allows to properly interpret the character.
+* Web Accessibility: Meta Tags are also very useful to make our website accessible by providing more information about the website and the content of the web page.
+
+
+
+
+Question 5 Define favicon and give an illustrative example?
+Solution 5:Favicon stands for favourite icon. It is a tiny icon that comes along with and displayed on the browser's address, tab bar or in the bookmark menu. Favicon usually have 16*16 px  size and can be stored in GIF,PNG and ICO Formats. We can use it by using the link tag under the head tag.
+ For Example: <link rel=”icon” href=”./favicon.png” />
